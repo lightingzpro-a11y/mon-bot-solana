@@ -3,7 +3,7 @@ const bs58 = require('bs58');
 const TelegramBot = require('node-telegram-bot-api');
 
 // === CONFIGURATION ===
-
+ 
 // Ton token Telegram (remplace ici avec le tien)
 const TELEGRAM_TOKEN = '8232782908:AAFlQ4_B9sfdoN9rSBMbaONdASvDYX7Vktg';
 
