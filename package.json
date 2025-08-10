@@ -1,6 +1,7 @@
 {
   "name": "solana-telegram-bot",
   "version": "1.0.0",
+  "description": "Bot Telegram qui achète/vend des tokens Solana via Jupiter",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -9,6 +10,6 @@
     "node-telegram-bot-api": "^0.61.0",
     "@solana/web3.js": "^1.41.0",
     "axios": "^1.4.0",
-    "base58": "^1.0.0"
+    "bs58": "^5.0.0"
   }
 }
