@@ -1,1 +1,12 @@
+{
+  "name": "solana-telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "@solana/web3.js": "^1.73.0",
+    "base58-js": "^1.1.0"
+  }
+}
 
